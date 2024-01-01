@@ -37,7 +37,7 @@
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) done
-- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/) done
 - [2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
@@ -55,4 +55,4 @@
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) done
 
 ## Hard
-- [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [First missing Positive](https://leetcode.com/problems/first-missing-positive/) done

@@ -16,7 +16,7 @@
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) done
 - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) done
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) done
-- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) done
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) done
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) done
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) done
